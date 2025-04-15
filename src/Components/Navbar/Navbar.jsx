@@ -45,9 +45,9 @@ export default function Navbar() {
       <div className='NavBarMain'>
         <div onClick={() => navigate("/")}><p className='FontStyleNav'>ShopEZ</p></div>
         <div onClick={() => navigate("/")} id="home1">Home</div>
-        <div onClick={() => navigate("/category/men-jeans/products")} id="home1">Men</div>
-        <div onClick={() => navigate("/category/women-kurtas-suits/products")} id="home1">Women</div>
-        <div onClick={() => navigate("/category/baby-wears/products")} id="home1">Baby Wears</div>
+        <div onClick={() => navigate("/category/men-jeans/products")} id="home1">Men party outfit</div>
+        <div onClick={() => navigate("/category/women-kurtas-suits/products")} id="home1">Women birthday bash</div>
+        <div onClick={() => navigate("/category/baby-wears/products")} id="home1">Baby showers</div>
         {/* <div onClick={() => navigate("/blog")} id="home1">Blog</div>
         <div onClick={() => navigate("/contact_us")} id="home1">Contact</div> */}
         {/* <div onClick={() => navigate("/login")}><input type="text" placeholder='Search' /></div> */}
