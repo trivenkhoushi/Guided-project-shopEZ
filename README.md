@@ -1,33 +1,4 @@
 # E-Commerce-Website
-### I have design an E-Commerce Website named E-Commerce. This project was build as a individual project in Masai School. 
-
-# Features:-
-1. You will find latest products on this website.
-2. It has features of authentication, Login and Register User.
-3. It has different categories and filters to find the products.
-4. Users can read details of each product by clicking on product.
-5. Users can add products to the cart.
-6. Users have to fill address details for shipping.
-7. Users can pay money using a card as well as RazorPay.
-
-
-# Technologies that we used :-
-1. REACT
-2. CSS
-3. Node.js
-4. Express.js
-5. MongoDB
-6. Material UI
-
-## Contact
-
-Alok Kushwaha - [My Linkedin](https://www.linkedin.com/in/alok-kushwaha-02b6ba129/)
-
-Project Link - [Project Repo](https://github.com/Alok0818/E-Commerce-mern-website)
-
-Project Deployed Link - [Project Deployed Link](https://e-commerce-alokkushwaha.vercel.app/)
-
-# Glimpse of Our Work:-
 
 
 ## Register Page
